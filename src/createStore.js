@@ -1,5 +1,3 @@
-import candyReducer from "./reducers/candyReducer";
-
 export default function createStore(reducer) {
   let state;
  
